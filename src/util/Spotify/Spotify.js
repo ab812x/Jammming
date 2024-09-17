@@ -1,6 +1,6 @@
 let accessToken;
 const clientID = "1fcf9f96170846fa93e6ddfe8ec23d97";
-const redirectUrl = "http://localhost:3000";
+const redirectUrl = "https://jammming-ab812x.netlify.app";
 const Spotify = {
   getAccessToken() {
     // First check for the access token
